@@ -99,7 +99,7 @@ const Form = () => {
 
 
         {/* CONFIRM PASSWORD */}
-            <label>Repeat Password:</label>
+            <label>Confirm Password:</label>
             <input
               className="inp"
               type="password"
