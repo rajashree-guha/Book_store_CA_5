@@ -33,6 +33,9 @@
   justify-content: space-between;
 }
 
+input{
+  color: black;
+}
 /*--------------navbar--------------*/
 .nav{
   padding: 40px;
@@ -138,6 +141,7 @@ form{
 #searchBookDiv:hover{
   background-color: #ef37371d;
 }
+
 form input[type="submit"]{
   background-color: #41a341;
   color: white;
